@@ -29,4 +29,4 @@ This workflow uses an AI Agent with Google Gemini, memory, and Pinecone Vector S
 
 ## Workflow Screenshot
 
-![n8n AI Automation & RAG Workflows](n8n-rag-workflows.png)
+![n8n AI Automation & RAG Workflows](workflow_automation.png)
